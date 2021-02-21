@@ -13,7 +13,7 @@ import webbrowser
 from modules import db_manager
 from modules import objects
 from modules import selenium_module
-from modules.helpers import class_info
+from modules.helpers import chris_info
 from modules.helpers import create_folders_css
 from modules.helpers import default_creds_category
 from modules.helpers import do_jitter
@@ -412,9 +412,9 @@ if __name__ == "__main__":
                 files = glob.glob(os.path.join(cli_parsed.d, '*report.html'))
                 for f in files:
                     webbrowser.open(f)
-                    class_info()
+                    chris_info()
                     sys.exit()
-        class_info()
+        chris_info()
         sys.exit()
 
     if cli_parsed.f is not None or cli_parsed.x is not None:
@@ -429,7 +429,7 @@ if __name__ == "__main__":
             files = glob.glob(os.path.join(cli_parsed.d, '*report.html'))
             for f in files:
                 webbrowser.open(f)
-                class_info()
+                chris_info()
                 sys.exit()
-        class_info()
+        chris_info()
         sys.exit()

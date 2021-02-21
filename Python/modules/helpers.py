@@ -836,30 +836,13 @@ def open_file_input(cli_parsed):
         print('[*] No report files found to open, perhaps no hosts were successful')
         return False
 
-def class_info():
-    class_image = '''MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-M                                                                M
-M       .”cCCc”.                                                 M
-M      /cccccccc\\           Our Upcoming Trainings:              M
-M      §cccccccc|                                                M
-M      :ccccccccP       BlackHat USA  >> Aug 1  -  Aug 4 2020    M
-M      \\cccccccc()                 Virtual                       M
-M       \\ccccccccD         https://www.blackhat.com              M
-M       |cccccccc\\       _                                       M
-M       |ccccccccc)     //    BH ASIA  >>  Sep 28 - Oct 2 2020   M
-M       |cccccc|=      //               Singapore                M
-M      /°°°°°°”-.     (CCCC)                                     M
-M      ;----._  _._   |cccc|                                     M
-M   .*°       °°   °. \\cccc/                                     M
-M  /  /       (      )/ccc/                                      M
-M  |_/        |    _.°cccc|                                      M
-M  |/         °^^^°ccccccc/                                      M
-M  /            \\cccccccc/                                       M
-M /              \\cccccc/                                        M
-M |                °*°                                           M
-M /                  \\      Psss. Follow us on >> Twitter        M
-M °*-.__________..-*°°                         >> Facebook       M
-M  \\WWWWWWWWWWWWWWWW/                          >> LinkedIn       M
-M   \\WWWWWWWWWWWWWW/                                             M
-MMMMM|WWWWWWWWWWWW|MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'''
-    print(class_image)
+def chris_info():
+    print('''
+Get more info on the amazing projects Chris has put together at
+https://www.christophertruncer.com.
+
+You can also follow him on Twitter @ChrisTruncer and @FortyNorthSec.
+
+Chris' GitHub page is full of amazing projects, available at
+https://github.com/ChrisTruncer.
+''')
