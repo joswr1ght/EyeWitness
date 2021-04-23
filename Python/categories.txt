@@ -452,3 +452,15 @@ var jumpProt = jumpURL.substr(0,6).toLowerCase();var argc = setCookie.arguments.
 <title>Netman 204 login</title>;<form id="login" action="cgi-bin/login.cgi";onsubmit="this.submit.disabled='disabled';action="cgi-bin/view.cgi"|infrastructure
 <title>DS-510</title>;<frameset rows="90,*" frameborder="0" framespacing="0" border="0">;<frameset rows="90,*" frameborder="0" framespacing="0" border="0">;<frame src="/en/top.htm" name="top" noresize="" scrolling="no">|printer
 <title>AlienVault OSSIM;<title>AlienVault OSSIM;form name="f_login" id="f_login" method="POST"|infrastructure
+<base href="/sysmgr/">;nwf-loading-indicator class="nwf-loading";upport-href="{{ 'supportHref' | Vendorizer }}|infrastructure
+<h1>Welcome to nginx!</h1>;<title>Welcome to nginx!</title>;<p>For online documentation and support please refer|crap
+<title>IBM TS7700</title>;<div class="deviceImage"></div>;"productnameLabelSpan">Storage Management|nas
+<title>Login</title>;function initDHTMLAPI() {;var cacUserName = "";hideElement("trInitName", "trInitPwd");name="login_saml" id="login_saml_form"|netdev
+<title>NETGEAR ProSAFE Plus Switch</title>;<div id="mainArea" class="mainArea";<a id="loginBtn" class="loginBtnStyle"|netdev
+<title>Poly - Configuration Utility</title>;<span id="headerLabel">Poly Web Configuration Utility</span>;<div id="security-popup">|netdev
+ng-controller="AppCtrl as AppCtrl";{'fullscreen': AppCtrl.FULLSCREEN};div class="loading-overlay-text"|nas
+placeholder="Username";id="username" name="ipamusername";class="login form-control input-sm"|infrastructure
+<title>Brother TD-4100N</title>;Brother Industries, Ltd;/printer/ball.gif|printer
+<strong class="product">HP PageWide Color E55650</strong>;class="ip-address" id="HomeDeviceIp;DeviceStatus/Save|printer
+meta name="vizportal-config";div class="tb-app" ng-app="VizPortalRun";api/tableau|netdev
+img src="iisstart.png";div id="container";<title>IIS Windows Server</title>|crap
